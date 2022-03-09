@@ -1,0 +1,12 @@
+{
+    "firstname": "Cris",
+    "lastname": "Palade",
+    "postcode": "515500",
+    "alertmsg": "Customer added successfully",
+
+    "customer": "Cris Palade",
+    "currency": "Dollar",
+    "openAccountalert": "Account created successfully"
+
+
+}
